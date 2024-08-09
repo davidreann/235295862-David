@@ -1,0 +1,339 @@
+   0 cd..
+   1 pkg update
+   2 apk update
+   3 apk updgrade
+   4 apk upgrade
+   5 apk install proot-distro
+   6 apk --help
+   7 apk install python
+   8 apk install python3
+   9 apk
+  10 apk add python3
+  11 apk add ubuntu
+  12 apk add neofetch 
+  13 apk add ubuntu
+  14 apk add proot-distro
+  15 apk update
+  16 apk upgrade
+  17 apk add apache2 php git gh 
+  18 apk add apache2 php git
+  19 apk add gh
+  20 apk search github
+  21 apk search java
+  22 apk add github-cli
+  23 apk add openjdk11
+  24 apk add openjdk17
+  25 apk add open-jdk17
+  26 apk add open-jdk11
+  27 gh
+  28 gh auth 
+  29 gh auth login
+  30 apk add openssh
+  31 exit
+  32 git
+  33 apk install gh
+  34 apk --help
+  35 apk add gh
+  36 apk add github-cli
+  37 apk upgdate 
+  38 apk update
+  39 gh
+  40 gh auth login
+  41 gh
+  42 gh auth login
+  43 cls
+  44 clear
+  45 gh
+  46 gg
+  47 gh
+  48 gh auth login
+  49 list
+  50 apk list
+  51 clear
+  52 passwd
+  53 whoami
+  54 ip address
+  55 ip
+  56 if config
+  57 clear
+  58 git clone
+  59 git clone https://github.com/davidreann/235295862.git
+  60 git clone https://github.com/davidreann/235295862-david.git
+  61 git status
+  62 git
+  63 gh
+  64 git status
+  65 git init
+  66 git clone
+  67 git clone https://github.com/davidreann/235295862-david.git
+  68 git clone https://github.com/davidreann/235295862_david
+  69 git clone https://github.com/davidreann/235295862_david.git
+  70 git status
+  71 exit
+  72 cd 235295862_david
+  73 git clone https://github.com/davidreann/235295862_david
+  74 dir
+  75 cd
+  76 cd..
+  77 cd
+  78 cd 235295862_david
+  79 clear
+  80 apk add nani
+  81 apk add nano
+  82 apk upgrade
+  83 apk update
+  84 apk upgrade
+  85 apk add nano
+  86 apk add vim
+  87 apk add vi
+  88 clear
+  89 apk add vi
+  90 clear
+  91 cd 235295862_david
+  92 git clone
+  93 clear
+  94 git clone https://github/davidreann/235295862_david.git
+  95 git clone https://github.com/davidreann/235295862_david.git
+  96 git clone https://github.com/davidreann/235295862_david
+  97 git auth login
+  98 gh auth login
+  99 gut status
+ 100 git status
+ 101 oh my posh
+ 102 git clone https://github.com/davidreann/235295862_david
+ 103 ssh
+ 104 gh auth login
+ 105 git auth login
+ 106 clear
+ 107 gh auth login
+ 108 git clone https://github.com/davidreann/235295862-David.git
+ 109 cd 235295862-David
+ 110 touch Lab.txt
+ 111 git add Lab.txt
+ 112 git commit -m "New file for bonus points"
+ 113 git config --global user.name "davidreann"
+ 114 git commit -m "New file for bonus points"
+ 115 --global
+ 116 Omit --global
+ 117 root --global
+ 118 whoami
+ 119 git commit -m "file"
+ 120 git push 
+ 121 git push origin main
+ 122 clear
+ 123 cd..
+ 124 exit
+ 125 clear
+ 126 git auth login
+ 127 gh auth login
+ 128 clear
+ 129 gh auth login
+ 130 apk update
+ 131 apk upgrade
+ 132 apk update
+ 133 clear
+ 134 apk install github-cli
+ 135 apk add github-cli
+ 136 gh auth login
+ 137 clear
+ 138 gh auth login
+ 139 clear
+ 140 gh auth login
+ 141 gh auh login
+ 142 gh auth login
+ 143 clear
+ 144 gh auth login
+ 145 clear
+ 146 gh auth login
+ 147 apk openssh
+ 148 ssh-keyhan
+ 149 sah-keygan
+ 150 clear
+ 151 gh auth login
+ 152 git clone https://github.com/davidreann/235295862-David.git
+ 153 clear
+ 154 git clone https://github.com/davidreann/235295862-David
+ 155 clear
+ 156 git clone https://github.com/davidreann/235295862-David.git
+ 157 ls
+ 158 cd 235295862-David
+ 159 ls
+ 160 git push
+ 161 clear
+ 162 git clone https://github.com/davidreann/235295862-David
+ 163 cd 235295862-david
+ 164 cd 235295862-David
+ 165 ls
+ 166 git push
+ 167 clear
+ 168 apk info 
+ 169 clear
+ 170 apk info
+ 171 clear
+ 172 remove nano
+ 173 apk help 
+ 174 ls
+ 175 git clone https://github.com/davidreann/235295862-David
+ 176 clear
+ 177 du -sh ~
+ 178 uptime
+ 179 cd 235295862-David
+ 180 cd ~
+ 181 date
+ 182 apk add mysql
+ 183 clear
+ 184 mysql
+ 185 apk info
+ 186 apk add jdk8
+ 187 apk add mysql
+ 188 apk add Openjdk
+ 189 apk add Openjdk8
+ 190 apk add openjdk8
+ 191 apk openjdk8
+ 192 apk upgrade openjdk8
+ 193 clear
+ 194 apk info 
+ 195 apk info openjdk8
+ 196 apk info python3
+ 197 apk info mysql
+ 198 clear
+ 199 cd 235295862-David
+ 200 git clone https://github.com/davidreann/235295862-David.git
+ 201 clear
+ 202 mkdir finalexam
+ 203 cd finalexam
+ 204 git add exam_log.txt
+ 205 git init
+ 206 git add exam_log.txt
+ 207 clear
+ 208 cd..
+ 209 cd ..
+ 210 ls
+ 211 del finalexam
+ 212 rm finalexam
+ 213 remove finalexam
+ 214 rm -r finalexam
+ 215 ls
+ 216 cleae
+ 217 clear
+ 218 mkdir finalexam
+ 219 cd finalexam
+ 220 ls
+ 221 git init
+ 222 git config --global init.defaultBranch master
+ 223 git add exam_log.txt
+ 224 touchexam_log.txt 
+ 225 touch exam_log.txt
+ 226 ls
+ 227 git push 
+ 228 git remote add exam_log.txt https://github.com/davidreann/235295862-David.git
+ 229 git push
+ 230 git commit -m "Final exam"
+ 231 whoami
+ 232 git config --global user.name "root"
+ 233 git commit -m "Final exam" 
+ 234 git oush exam_log.txt
+ 235 git push exam_log.txt
+ 236 cd..
+ 237 cd ..
+ 238 ls
+ 239 cd finalexam
+ 240 rm exam_log.txt
+ 241 ls
+ 242 cd ..
+ 243 rm -r finalexam
+ 244 ls
+ 245 clear
+ 246 history -c
+ 247 mkdir linux_practice
+ 248 cd linux_practice
+ 249 touch notes.txt
+ 250 ls >> notes.txt
+ 251 cat notes.txt
+ 252 echo "This is a practical exam" >> notes.txt
+ 253 ls
+ 254 head -n 1 notes.txt
+ 255 head notes.txt
+ 256 tail notes.txt
+ 257 mkdir subdir
+ 258 ls
+ 259 mv subdir practice_subdir
+ 260 ls
+ 261 mv notes.txt practice_subdir
+ 262 ls
+ 263 cd linux_practice 
+ 264 cd practice_subdir
+ 265 mv notes.txt linux_practice
+ 266 cd ..
+ 267 ls
+ 268 cd practice_subdir
+ 269 ls
+ 270 la
+ 271 ls
+ 272 cat linux_practice
+ 273 ls
+ 274 cd ..
+ 275 ls
+ 276 cd practice_subdir
+ 277 ls
+ 278 rm notes.txt
+ 279 rm -r linux_practice
+ 280 cd ..
+ 281 ls
+ 282 rm practice_subdir
+ 283 rm -r practice_subdir
+ 284 ls
+ 285 cd ..
+ 286 rm -r linux_practice
+ 287 ls
+ 288 clear
+ 289 history -c
+ 290 mkdir linux_practice
+ 291 cd linux_practice
+ 292 touch notes.txt
+ 293 ls >> notes.txt
+ 294 cat notes.txt
+ 295 echo "This is a practical exam" notes.txt
+ 296 head notes.txt
+ 297 head 
+ 298 history -c
+ 299 cd 235295862-David
+ 300 ls
+ 301 cd linux_practice
+ 302 ls
+ 303 rm notes.txt
+ 304 cd ..
+ 305 rm -r linux practice 
+ 306 rm -r linux_practice
+ 307 ls
+ 308 mkdir linux_practice
+ 309 cd linux_practice
+ 310 touch notes.txt
+ 311 ls
+ 312 ls >> notes.txt
+ 313 cat
+ 314 cd 235295862-David/linux_practice
+ 315 ls
+ 316 cat notes.txt
+ 317 echo "This is a practical exam" >> notes.txt
+ 318 head notes.txt
+ 319 tail notes.txt
+ 320 mkdir subdir
+ 321 mv notes.txt subdir
+ 322 ls
+ 323 mv subdir practice_subdir
+ 324 cd practice_subdir
+ 325 ls
+ 326 cd ..
+ 327 cp notes.txt notes.txt
+ 328 cp practice_subdir/notes.txt notes.txt
+ 329 apk info dat
+ 330 apk date
+ 331 date
+ 332 uptime
+ 333 du -sh ~
+ 334 github --version
+ 335 gh --version
+ 336 cd 235295862-David
+ 337 git checkout -b finalexam
+ 338 history > exam_log.txt
