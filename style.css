@@ -1,1 +1,16 @@
-i 
+h1, h2{
+    text-align: center;
+  }
+body {
+font-family: monospace;
+padding: 20px;
+background-color: beige;
+}
+h1{
+  font-size: 35px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+h2{
+  font-size: 30px;
+}
